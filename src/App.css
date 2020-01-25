@@ -1,0 +1,170 @@
+/* @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bowlby+One+SC|Luckiest+Guy|Roboto&display=swap');
+
+.App {
+  /* margin: 10px;
+  padding: 10px; */
+  /* font-family: 'Roboto', sans-serif;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Bowlby One SC', cursive; */
+  min-height: 100vh;
+}
+
+.component_p1 {
+  margin-left: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.component_p2 {
+  margin-left: 30px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.score {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  margin-left: 50px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: red;
+}
+
+.scorePlayerName {
+  color: hsla(56, 85%, 43%, 0.569);
+  font-size: 40px;
+}
+
+.play {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* font-size: 30px; */
+}
+
+.playBtn {
+  font-size: 30px;
+  color: rgba(178, 218, 32, 0.9);
+  background-color: #a01111;
+  border-radius: 10%;
+  padding: 5px 10px;
+  Opacity: 0.6;
+  transition-duration: 0.4s;
+  border: none;
+  outline-color: #a01111;
+  outline-width: 0;
+}
+
+.playBtn:hover {
+  border-radius: 25%;
+  padding: 5px 10px;
+  Opacity: 1;
+}
+
+.StartGameBtn {
+  font-size: 20px;
+  color: rgba(178, 218, 32, 0.9);
+  background-color: #a01111;
+  border-radius: 10%;
+  margin-top: 20px;
+  padding: 5px 10px;
+  Opacity: 0.6;
+  transition-duration: 0.4s;
+  border: none;
+  outline-color: #a01111;
+  outline-width: 0;
+}
+
+.StartGameBtn:hover {
+  border-radius: 25%;
+  padding: 5px 10px;
+  Opacity: 1;
+}
+
+.EndGameBtn {
+  font-size: 20px;
+  color: rgba(178, 218, 32, 0.9);
+  background-color: #a01111;
+  border-radius: 10px;
+  padding: 5px 10px;
+  Opacity: 0.6;
+  transition-duration: 0.4s;
+  border: none;
+  outline-color: #a01111;
+  outline-width: 0;
+}
+
+.EndGameBtn:hover {
+  color: greenyellow;
+  border-radius: 25%;
+  padding: 5px 10px;
+  Opacity: 1;
+}
+
+.card1 {
+  display: inline-block;
+  top: 30px;
+  left: 30px;
+  margin: 20px 80px 20px 20px;
+}
+
+.card2 {
+  display: inline-block;
+  top: 30px;
+  left: 300px;
+  margin: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  margin: 30px;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.subtitle {
+  /* text-align: center; */
+  margin-left: 55px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 23px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Alfa Slab One', cursive; */
+  font-family: 'Luckiest Guy', cursive;
+  /* font-family: 'Bowlby One SC', cursive; */
+  letter-spacing: 3px;
+}
+
+.sume_up1 {
+  display: flexbox;
+  color: white;
+  /* margin: 0 20px; */
+  margin: 20px 80px 20px 20px;
+  font-size: 26px;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Alfa Slab One', cursive;
+  /* font-family: 'Luckiest Guy', cursive; */
+  /* font-family: 'Bowlby One SC', cursive; */
+  letter-spacing: 3px;
+}
+
+.sume_up2 {
+  display: inline-block;
+  color: white;
+  /* margin: 0 20px; */
+  margin: 20px 80px 20px 20px;
+  font-size: 26px;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Alfa Slab One', cursive;
+  /* font-family: 'Luckiest Guy', cursive; */
+  /* font-family: 'Bowlby One SC', cursive; */
+  letter-spacing: 3px;
+}
