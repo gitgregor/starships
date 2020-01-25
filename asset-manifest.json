@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starships/static/css/main.6ccf6dc7.chunk.css",
+    "main.js": "/starships/static/js/main.cf128d85.chunk.js",
+    "main.js.map": "/starships/static/js/main.cf128d85.chunk.js.map",
+    "runtime-main.js": "/starships/static/js/runtime-main.909ccce6.js",
+    "runtime-main.js.map": "/starships/static/js/runtime-main.909ccce6.js.map",
+    "static/js/2.7be41522.chunk.js": "/starships/static/js/2.7be41522.chunk.js",
+    "static/js/2.7be41522.chunk.js.map": "/starships/static/js/2.7be41522.chunk.js.map",
+    "index.html": "/starships/index.html",
+    "precache-manifest.81c22d966325f8fe9a204b86e98623f5.js": "/starships/precache-manifest.81c22d966325f8fe9a204b86e98623f5.js",
+    "service-worker.js": "/starships/service-worker.js",
+    "static/css/main.6ccf6dc7.chunk.css.map": "/starships/static/css/main.6ccf6dc7.chunk.css.map",
+    "static/js/2.7be41522.chunk.js.LICENSE": "/starships/static/js/2.7be41522.chunk.js.LICENSE",
+    "static/media/spaceShip1_1920.jpg": "/starships/static/media/spaceShip1_1920.ea69c3d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.909ccce6.js",
+    "static/js/2.7be41522.chunk.js",
+    "static/css/main.6ccf6dc7.chunk.css",
+    "static/js/main.cf128d85.chunk.js"
+  ]
+}
